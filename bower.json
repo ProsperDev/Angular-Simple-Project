@@ -1,0 +1,22 @@
+{
+  "name": "router",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/projects",
+  "authors": [
+   
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.2.3"
+  }
+}
